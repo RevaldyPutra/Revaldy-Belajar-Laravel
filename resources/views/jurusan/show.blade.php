@@ -16,18 +16,18 @@
               <div class="card-body">
                 
                   <div class="form-group">
-                    <label for="InputNIS">Nama Siswa</label>
-                    <input type="text" name="nama_siswa" class="form-control" id="InputNIS" placeholder="Enter Your Nama" value="{{ $showjurusanById->nama_siswa}}" disabled>
+                    <label for="InputNama">Nama Siswa</label>
+                    <input type="text" name="nama_siswa" class="form-control" id="InputNama" placeholder="Enter Your Nama" value="{{ $showjurusanById->nama_siswa}}" disabled>
                   </div>
 
                   <div class="form-group">
-                    <label for="InputNIS">Nama kelas</label>
-                    <input type="text" name="nama_kelas" class="form-control" id="InputNIS" placeholder="Enter Your Class" value="{{ $showjurusanById->nama_kelas }}" disabled>
+                    <label for="InputKelas">Nama kelas</label>
+                    <input type="text" name="nama_kelas" class="form-control" id="InputKelas" placeholder="Enter Your Kelas" value="{{ $showjurusanById->nama_kelas }}" disabled>
                   </div>
 
                 <div class="form-group">
-                    <label for="InputNama">Jurusan</label>
-                    <input type="text" name="jurusan" class="form-control" id="InputNama" placeholder="Enter Your Jurusan" value="{{ $showjurusanById->jurusan }}" disabled>
+                    <label for="InputJurusan">Jurusan</label>
+                    <input type="text" name="jurusan" class="form-control" id="InputJurusan" placeholder="Enter Your Jurusan" value="{{ $showjurusanById->jurusan }}" disabled>
                   </div>
                 <!-- /.card-body -->
 
