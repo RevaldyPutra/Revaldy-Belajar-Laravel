@@ -15,7 +15,7 @@
               <i class="fas fa-times"></i>
             </button>
           </div>
-      <h3 class="card-title">DataTable with minimal features & hover style</h3>
+      <h3 class="card-title">Tabel Data Jurusan</h3>
     </div>
     <!-- /.card-header -->
     <div class="card-body">
